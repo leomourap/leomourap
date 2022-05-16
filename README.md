@@ -1,6 +1,6 @@
 🐠 @leomourap
 
-I’m a bioinformatician masters researcher working in LAGENPE, a fish genetics research lab located in UNESP, Brazil. 
+I’m a bioinformatics masters researcher working in LAGENPE, a fish genetics research lab located in UNESP, Brazil. 
 
 Interested in organize my initial projects and learn.
 
