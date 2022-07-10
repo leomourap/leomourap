@@ -1,10 +1,11 @@
 🐠 @leomourap
 
-I’m a bioinformatics masters researcher working in LAGENPE, a fish genetics research lab located in UNESP, Brazil. 
+I’m a bioinformatics researcher working in LAGENPE, a fish genetics research lab located in UNESP, Brazil. 
+In my work i usually obtain, treat and analyze massive genomic datasets to try to get clues about some evolutionary issues.
 
-Interested in organize my initial projects and learn.
+Interested in organizing my initial projects and learn.
 
-Currently learning 🐍Python and 🐼Data Science, and looking for develop myself at it.
+Currently learning 🐍Python and 🐼Data Science, and looking for develop myself in this.
 
 If you wanna contact me, you can send me an email at 📫 leomgiglio94@gmail.com
 
