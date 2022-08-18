@@ -1,6 +1,6 @@
 🐠 @leomourap
 
-Currently studying Data Science utilizing 🐍Python, with the goal of starting my career in the data/tech area.
+Currently studying :chart: Data Science utilizing 🐍Python, with the goal of starting my career in the data/tech area.
 Interested in organizing my portfolio with my projects and learn.
 
 My Linkedin is: https://www.linkedin.com/in/leonardo-moura-giglio-810b41156/
