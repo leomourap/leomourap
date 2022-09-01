@@ -1,3 +1,5 @@
+![Capa perfil quer ter mais sucesso em suas candidaturas azul e branco - Banner LinkedIn](https://user-images.githubusercontent.com/105673165/187815350-d101ab77-30e9-48ea-b867-58c68f56cb9a.png)
+
 🐠 @leomourap
 
 Currently studying :chart: Data Science utilizing 🐍Python, with the goal of starting my career in the data/tech area.
