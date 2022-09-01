@@ -1,6 +1,6 @@
 ![Capa perfil quer ter mais sucesso em suas candidaturas azul e branco - Banner LinkedIn](https://user-images.githubusercontent.com/105673165/187815350-d101ab77-30e9-48ea-b867-58c68f56cb9a.png)
 <div> 
-  <a href="https:www.linkedin.com/in/leonardo-moura-giglio-810b41156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-moura-giglio-810b41156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
 
   ##
