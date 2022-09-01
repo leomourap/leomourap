@@ -1,11 +1,15 @@
 ![Capa perfil quer ter mais sucesso em suas candidaturas azul e branco - Banner LinkedIn](https://user-images.githubusercontent.com/105673165/187815350-d101ab77-30e9-48ea-b867-58c68f56cb9a.png)
+<div> 
+  <a href="https://https://www.linkedin.com/in/leonardo-moura-giglio-810b41156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
 
+  ##
+  
 🐠 @leomourap
 
 Currently studying :chart: Data Science utilizing 🐍Python, with the goal of starting my career in the data/tech area.
 Interested in organizing my portfolio with my projects and learn.
 
-My Linkedin is: https://www.linkedin.com/in/leonardo-moura-giglio-810b41156/
 
 I have knowledge in Python language, as well as knowledge of the main Data Science tools available in the language, such as 🐼Pandas, Numpy, matplotlib, seaborn, besides basic knowledge in scikit-learn.
 I also have a lot of experience analyzing large data sets, but in an academic/genomic background.
@@ -17,6 +21,23 @@ I consider myself a person with good analytical skills. I always try to be proac
 
 If you wanna contact me, you can send me an email at 📫 leomgiglio94@gmail.com
 
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Leo-Python" height="50" width="140" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Leo-SQLite" height="50" width="140" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" alt="Leo-Excell" height="50" width="140" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/leomourap">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomourap&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomourap&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
 <!---
 leomourap/leomourap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
